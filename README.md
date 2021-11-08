@@ -10,7 +10,7 @@
 
 -Soma de Múltiplos
 
-![img](img/img1.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img1.png?raw=true)
 
 # Valores múltiplos de 3
 
@@ -33,24 +33,24 @@
         #endregion
 ```
 
-![img](img/img2.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img2.png?raw=true)
 
 # Valores múltiplos de 5
 
-![img](img/img3.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img3.png?raw=true)
 
-![img](img/img4.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img4.png?raw=true)
 
 # Soma de números naturais
 
-![img](img/img5.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img5.png?raw=true)
 
 # Soma de números naturais de 0 até o número informado que sejam múltiplos
 
-![img](img/img6.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img6.png?raw=true)
 
 # Soma de Múltiplos
 
-![img](img/img7.png)
+![img](https://github.com/PaulaSena/Multipos/blob/master/img/Img7.png?raw=true)
 
 PaulaSena
