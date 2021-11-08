@@ -1,0 +1,7 @@
+C:\Users\Paula\source\repos\Multipos\Multipos\bin\Debug\Multipos.exe.config
+C:\Users\Paula\source\repos\Multipos\Multipos\bin\Debug\Multipos.exe
+C:\Users\Paula\source\repos\Multipos\Multipos\bin\Debug\Multipos.pdb
+C:\Users\Paula\source\repos\Multipos\Multipos\obj\Debug\Multipos.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\Multipos\Multipos\obj\Debug\Multipos.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Multipos\Multipos\obj\Debug\Multipos.exe
+C:\Users\Paula\source\repos\Multipos\Multipos\obj\Debug\Multipos.pdb
